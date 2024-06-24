@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "battle-game",
-    "slug": "battle-game",
+    "name": "basketball-game",
+    "slug": "basketball-game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
